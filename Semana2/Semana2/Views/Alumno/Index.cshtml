@@ -1,0 +1,63 @@
+﻿@model IEnumerable<Semana2.Models.Alumno>
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+<p>
+    @Html.ActionLink("Crear", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.apellido)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.fechaNacimiento)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.carrera)
+        </th>
+        <th>
+            Nombre completo
+        </th>
+        <th>
+            Edad
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.apellido)
+        </td>
+        <td>
+            @item.fechaNacimiento
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.carrera)
+        </td>
+        <td>
+            @item.nombreCompleto()
+        </td>
+        <td>
+            @item.edad()
+        </td>
+        <td>
+            @Html.ActionLink("Editar", "Edit", new { id = item.id }) |
+            @Html.ActionLink("Ver", "Details", new { id = item.id }) |
+            @Html.ActionLink("Eliminar", "Delete", new { id = item.id })
+        </td>
+    </tr>
+}
+
+</table>

@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\models\\alumnoexcepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\alumnoexcepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AlumnoController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\AlumnoController.cs",
+              "RelativeDocumentMoniker": "Semana2\\Controllers\\AlumnoController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\AlumnoController.cs",
+              "RelativeToolTip": "Semana2\\Controllers\\AlumnoController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:47:39.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AlumnoExcepciones.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\AlumnoExcepciones.cs",
+              "RelativeDocumentMoniker": "Semana2\\Models\\AlumnoExcepciones.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\AlumnoExcepciones.cs",
+              "RelativeToolTip": "Semana2\\Models\\AlumnoExcepciones.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T19:41:24.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Alumno\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Alumno\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Alumno\\Index.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Alumno\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-24T18:48:13.287Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Alumno.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Alumno.cs",
+              "RelativeDocumentMoniker": "Semana2\\Models\\Alumno.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Alumno.cs",
+              "RelativeToolTip": "Semana2\\Models\\Alumno.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-24T18:47:32.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
