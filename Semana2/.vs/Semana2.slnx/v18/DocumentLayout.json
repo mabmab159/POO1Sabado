@@ -3,20 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\models\\alumnoexcepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\alumnoexcepciones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\alumno\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\producto\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\controllers\\alumnocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\models\\alumno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\producto\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|c:\\users\\miguel\\desktop\\poosabado\\semana2\\semana2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{99D7DDCF-80CB-457B-BD92-DE432C1659D1}|Semana2\\Semana2.csproj|solutionrelative:semana2\\views\\producto\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,54 +34,68 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "AlumnoController.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\AlumnoController.cs",
-              "RelativeDocumentMoniker": "Semana2\\Controllers\\AlumnoController.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\AlumnoController.cs",
-              "RelativeToolTip": "Semana2\\Controllers\\AlumnoController.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAQwCAAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T19:47:39.859Z",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Create.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Producto\\Create.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Create.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Producto\\Create.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAAADIAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T19:05:07.173Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AlumnoExcepciones.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\AlumnoExcepciones.cs",
-              "RelativeDocumentMoniker": "Semana2\\Models\\AlumnoExcepciones.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\AlumnoExcepciones.cs",
-              "RelativeToolTip": "Semana2\\Models\\AlumnoExcepciones.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAYwB0AAABNAAAAAAAAAA==",
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "Semana2\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Producto.cs",
+              "RelativeToolTip": "Semana2\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T19:41:24.592Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Alumno\\Index.cshtml",
-              "RelativeDocumentMoniker": "Semana2\\Views\\Alumno\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Alumno\\Index.cshtml",
-              "RelativeToolTip": "Semana2\\Views\\Alumno\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-01-24T18:48:13.287Z",
+              "WhenOpened": "2026-01-25T19:19:01.271Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Alumno.cs",
-              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Alumno.cs",
-              "RelativeDocumentMoniker": "Semana2\\Models\\Alumno.cs",
-              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Models\\Alumno.cs",
-              "RelativeToolTip": "Semana2\\Models\\Alumno.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Index.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Producto\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Index.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Producto\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T19:11:27.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Semana2\\Views\\Producto\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Views\\Producto\\Edit.cshtml",
+              "RelativeToolTip": "Semana2\\Views\\Producto\\Edit.cshtml",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC0AAAB9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-01-25T19:10:39.973Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Semana2\\Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\Miguel\\Desktop\\POOSabado\\Semana2\\Semana2\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Semana2\\Controllers\\ProductoController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwCsAAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-01-24T18:47:32.007Z",
+              "WhenOpened": "2026-01-25T18:51:33.648Z",
               "EditorCaption": ""
             }
           ]

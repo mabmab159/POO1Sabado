@@ -1,0 +1,47 @@
+﻿@model IEnumerable<Semana2.Models.Curso>
+
+@{
+    ViewBag.Title = "Filtro";
+}
+
+<h2>Filtro</h2>
+
+<!--Voy a agregar un formulario de consultas-->
+@using (Html.BeginForm())
+            {
+                <span>Descripcion del curso</span>
+                @Html.TextBox("nombre")
+                <button>Filtrar</button>
+            }
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.creditos)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.nombre)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.creditos)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "Edit", new { id=item.id }) |
+            @Html.ActionLink("Details", "Details", new { id=item.id }) |
+            @Html.ActionLink("Delete", "Delete", new { id=item.id })
+        </td>
+    </tr>
+}
+    <tr>
+        <td colspan="3">Cantidad de elementos encontrados: @Model.Count() </td>
+    </tr>
+
+</table>
