@@ -1,0 +1,21 @@
+﻿
+@{
+    ViewBag.Title = "Operaciones";
+}
+
+<h2>Operaciones</h2>
+
+<div>
+    @using (Html.BeginForm())
+            {
+                <span>Ingrese el numero: </span>
+                @Html.TextBox("numero", 0, htmlAttributes: new {type = "number"})
+                <button>Calcular</button>
+            }
+</div>
+
+<div>
+    <span>Cantidad de Divisores: @ViewBag.CantidadDivisores</span>
+    <span>Suma de Divisores: @ViewBag.SumaDivisores</span>
+    <span>Suma de Digitos: @ViewBag.SumaDigitos</span>
+</div>

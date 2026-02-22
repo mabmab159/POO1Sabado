@@ -1,0 +1,78 @@
+﻿@model IEnumerable<Semana6.Models.Cliente>
+
+@{
+    ViewBag.Title = "Filtro";
+}
+
+<h2>Filtro</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+
+@using (Html.BeginForm("Filtro", "Cliente", FormMethod.Get, new { id = "formFiltro" }))
+{
+    <span>Ingrese el nombre: </span>
+    @Html.TextBox("nombre", "", new { id = "txtNombre", autocomplete = "off" })
+    <button>Filtrar</button>
+}
+
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.direccion)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.pais)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.telefono)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.pais)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.telefono)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new { id = item.id }) |
+                @Html.ActionLink("Details", "Details", new { id = item.id }) |
+                @Html.ActionLink("Delete", "Delete", new { id = item.id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+<script>
+
+    let timeout = null;
+
+    document.getElementById("txtNombre").addEventListener("keyup", function () {
+
+        clearTimeout(timeout); //Se reinicia el tiempo de espera por cada tecla que apretaste
+
+        timeout = setTimeout(
+            function () {
+                document.getElementById("formFiltro").submit();
+            }, 500 //Esperar 500ms desde la ultima tecla apretada
+        );
+
+
+    });
+</script>
